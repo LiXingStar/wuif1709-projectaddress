@@ -1,0 +1,5 @@
+个人app：前台http://changgo.duapp.com/go/index.php/index/show
+	后台//changgo.duapp.com/go/index.php/login/index(admin/admin)
+小组app:前台http://fffapps.duapp.com/flowerApp/index.php/index
+	后台http://fffapps.duapp.com/flowerApp/index.php/manage(admin/admin)
+pc端：前台http://wyflower1216.duapp.com/flower/index/shouye.php
