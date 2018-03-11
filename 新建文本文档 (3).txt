@@ -1,0 +1,10 @@
+企业站:爱宠之家{前台：http://aichong912.duapp.com/animateHome/index/index.php
+		后台:http://aichong912.duapp.com/animateHome/admin/login.php  用户名：wzh  密码:wuzihou
+		}
+app:甄选{
+		前台:http://yanxuan912.duapp.com/yanxuan/index.php/index/show
+		后台:http://yanxuan912.duapp.com/yanxuan/index.php   用户名：admin  密码:123456
+
+}
+合作项目:FM酷咖：http://fmofmine.duapp.com/FM/index.php/my  用户名admin 密码123456
+   
