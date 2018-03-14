@@ -1,0 +1,9 @@
+企业站 前台	tideplay.duapp.com/tide/index/index.php
+  	后台	http://tideplay.duapp.com/tide/admin/login.php
+
+
+App 	前台	http://adminapp.duapp.com/meizu/index.php/my/index
+	后台	 http://adminapp.duapp.com/meizu/index.php/catemanage
+		
+
+	
