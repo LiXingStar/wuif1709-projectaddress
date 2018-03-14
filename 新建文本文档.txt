@@ -1,0 +1,6 @@
+qugou   http://qugou1.duapp.com/index.php/index
+houtai  http://qugou1.duapp.com/index.php/login   user:admin   pass:123456
+flower  http://fffapps.duapp.com/flowerApp/index.php/index
+houtai  http://fffapps.duapp.com/flowerApp/index.php/manage  user:admin   pass:admin
+
+
